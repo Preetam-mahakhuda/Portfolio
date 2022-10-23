@@ -88,4 +88,30 @@
     font-family: monospace;
     font-weight: lighter;
 }
+@media  screen and (max-width: 600px)
+{
+    .footer{
+        width: 420px;
+        height: 7vh;
+        font-size: 9px;
+    }
+    .col-1{
+        width: auto;
+        padding: 20px;
+    }
+    .col-2{
+        width: auto;
+        padding: 20px;
+    }
+    .col-3{
+        width: auto;
+        padding: 20px;
+    }
+    .col-4
+    {
+    padding: 20px;
+    font-family: monospace;
+    font-weight: lighter;
+    }
+}
 
